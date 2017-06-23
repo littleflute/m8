@@ -1,6 +1,6 @@
 var f = [];				
 f[0]	= "v0.0.9";			
-f[1]	= "01 Handbags & Gladrags.mp3";		
+f[1]	= "01 Handbags - Gladrags.mp3";		
 f[2]	= "02 It's All Over Now.mp3";		
 f[3]	= "03 Cindy Incidentally.mp3";		
 f[4]	= "04 Pool Hall Richard.mp3";		
