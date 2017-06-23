@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Rio de la Miel.mp3";		
+f[2]	= "02 La Villa Vieja.mp3";		
+f[3]	= "03 Calle Municion.mp3";		
+f[4]	= "04 Me Regale.mp3";		
+f[5]	= "05 Luzia.mp3";		
+f[6]	= "06 Manteca Colora.mp3";		
+f[7]	= "07 El Chorruelo.mp3";		
+f[8]	= "08 Camaron.mp3";		
